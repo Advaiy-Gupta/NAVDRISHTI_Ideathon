@@ -81,4 +81,4 @@ Before each session: **Demo settings → Reset demo data** (account menu, top ri
 
 - Keyword rules cover common phrasings only; unrecognised text falls back to asking the user to choose a category.
 - Some assistant explanations (jurisdiction reasons) and the complaint form labels are English-only; navigation, main labels, assistant prompts and complaint text support Hindi.
-- Photo previews are not persisted across reloads by design.
+- Photo previews are not persisted across reloads by Design.
