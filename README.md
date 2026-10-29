@@ -41,6 +41,8 @@ First-time visitors are offered a step-by-step guide on the home page (also avai
 
 ## Project structure
 
+Full details of the stack, data model, state, assistant logic and metrics are in [ARCHITECTURE.md](ARCHITECTURE.md).
+
 ```
 src/
   data/         typed reference data, directory, seed complaints, synthetic public dataset
