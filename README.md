@@ -43,6 +43,8 @@ First-time visitors are offered a step-by-step guide on the home page (also avai
 
 Full details of the stack, data model, state, assistant logic and metrics are in [ARCHITECTURE.md](ARCHITECTURE.md).
 
+The planned full-stack version (FastAPI, Supabase PostgreSQL, OpenAI) — its target stack, monorepo structure, database schema, API contract and migration plan — is in [TECH_STACK.md](TECH_STACK.md).
+
 ```
 src/
   data/         typed reference data, directory, seed complaints, synthetic public dataset
